@@ -14,5 +14,11 @@ export default StyleSheet.create({
   },
   centered: {
     alignItems: 'center'
+  },
+  bodyText: {
+    textAlign: 'center',
+    fontSize: 50,
+    color: 'green',
+    paddingTop: 20
   }
 })
